@@ -1,1 +1,1 @@
-testtext2 AAA
+testtext2 AAA→CCC
